@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://littleota.heroku.com/myroles_lite/myroles_lite.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://littleota.heroku.com/images/myroles_lite512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://littleota.heroku.com/images/myroles_lite57.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -22,8 +38,10 @@
 				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>v1.4</string>
 				<key>title</key>
-				<string>MyRoles Lite (beta 1.4)</string>
+				<string>MyRoles beta</string>
 			</dict>
 		</dict>
 	</array>
