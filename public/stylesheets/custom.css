@@ -17,7 +17,7 @@ body {
 }
 
 a.blue:link {color: #3264F0;}
-a.blue:active {color: #3264F0;}
+a.blue:active {color: #EBE9F4;}
 a.blue:visited {color: #3264F0;}
 a.blue:hover {color: #EBE9F4;}
 
@@ -41,22 +41,22 @@ section {
 }
 	section p {
 		margin: 0 0 30px 90px;
-		font-size: 22px;
-		line-height: 35px;
+		font-size: 30px;
+		line-height: 40px;
 		color: #d9d9d9;
 		text-shadow: 0px 1px 5px #000;
 	}
 	section h2 {
 		margin: 0 0 10px 90px;
-		font-size: 40px;
+		font-size: 50px;
 		font-weight: normal;
 		color: #3264F0;
 		text-shadow: 0px 0px 10px #3264F0;
 	}
 	section ol {
 		margin: 0 0 30px 90px;
-		font-size: 22px;
-		line-height: 45px;
+		font-size: 30px;
+		line-height: 50px;
 		color: #d9d9d9;
 		text-shadow: 0px 1px 5px #000;
 	}
@@ -85,7 +85,7 @@ footer {
 	footer p {
 		float: right;
 		clear: right;
-		font-size: 16px;
+		font-size: 30px;
 		color: #5a5a5a;
 		margin: 10px 0 0 0;
 	}
