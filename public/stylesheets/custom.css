@@ -3,6 +3,7 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, li, img, header, section, aside, foote
 }
  
 body {
+	width: 320px;
 	font-family: Helvetica, Arial, Sans-Serif;
 	background: #2b2b2b url(images/bg.png);
 }
