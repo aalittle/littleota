@@ -15,7 +15,12 @@ body {
 	position: relative;
 	overflow: hidden;
 }
- 
+
+a.blue:link {color: #3264F0;}
+a.blue:active {color: #3264F0;}
+a.blue:visited {color: #3264F0;}
+a.blue:hover {color: #EBE9F4;}
+
 header {}
 	header img#logo {
 		margin: 0 0 50px 0;
